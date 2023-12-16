@@ -121,3 +121,4 @@ equalsButton.addEventListener('click',function(){
     calculator.updateDisplay();
 });
 // calculator comment 
+//checking connection with github dextop
