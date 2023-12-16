@@ -7,6 +7,13 @@ Features:
   Delete functionality to remove the last entered digit.
   Decimal handling for accurate input.
   Dynamic display of the current input and operation.
+
+1. First item
+2. Second item
+   1. Subitem 2.1
+   2. Subitem 2.2
+3. Third item
+
 Usage:
   Open index.html in a web browser.
   Click on numeric buttons to input numbers.
